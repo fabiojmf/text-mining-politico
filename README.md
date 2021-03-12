@@ -1,2 +1,2 @@
-# text_mining_r
-Text Mining usando o portal de noticias Broadcast
+# Text Mining e Analise de Sentimentos
+Text Mining e Analise de Sentimentos usando o portal de noticias Broadcast.
