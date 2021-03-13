@@ -8,7 +8,7 @@ pagina <- read_html(url.principal)
 noticias <- pagina %>% html_nodes(".materia")
 
 enderecos <- c()
-contador <- 0
+contador <- 1
 
 for (i in noticias) {
     enderecos[contador] <- str_replace_all(string = i %>%
